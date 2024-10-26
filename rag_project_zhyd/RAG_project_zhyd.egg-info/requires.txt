@@ -1,0 +1,9 @@
+numpy>=1.19.2
+sentence-transformers>=2.2.0
+faiss-cpu>=1.7.0
+zhipuai>=1.0.0
+elasticsearch>=7.10.0
+python-dotenv>=0.19.2
+openai>=0.27.0
+docx>=0.2.4
+gradio>=2.2.4
